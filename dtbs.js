@@ -1,6 +1,5 @@
 {
-  "data": [
-    "6283875773656",
-    "6283170159916"
+  "tokens": [
+    "8358153510:AAHzksvpZ9dVjhTROfArmHeMQb2OqkrxyOs"
   ]
 }
